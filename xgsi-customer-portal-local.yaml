@@ -3,3 +3,6 @@ spring:
     url: jdbc:mysql://localhost:3306/xgsi-customer-portal?useUnicode=true&characterEncoding=UTF-8&useLegacyDatetimeCode=false&serverTimezone=UTC
     username: root
     password: '{cipher}48e7b447bc81753c543bce9b86132a49e12204e93510dfb6b4c12b7aadd92406'
+
+xgsi:
+  env: "local"
